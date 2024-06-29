@@ -80,7 +80,7 @@ Desenvolver uma aplicação Java amigável para gerenciar as transações de ven
 9. A saída será um teste que roda automático no terminal com as funções implementadas.
 
 Imagem 1 - resultado do teste
-    ![image](https://github.com/lucasmariano020/JavaCaf-G7/assets/62434830/20bdd6e2-bad2-4194-a2c3-f81e045332db)
+    ![image](https://github.com/lucasmariano020/JavaCafe_G7/assets/62434830/72cdfb46-7247-4aa4-ba79-e87059e354df)
 
 
 ## Comentários
