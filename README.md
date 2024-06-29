@@ -79,6 +79,10 @@ Desenvolver uma aplicação Java amigável para gerenciar as transações de ven
 8. Depois digite java main.java para executar o arquivo
 9. A saída será um teste que roda automático no terminal com as funções implementadas.
 
+Imagem 1 - resultado do teste
+    ![image](https://github.com/lucasmariano020/JavaCaf-G7/assets/62434830/20bdd6e2-bad2-4194-a2c3-f81e045332db)
+
+
 ## Comentários
 O grupo não conseguiu implementar todas as funcionalidades, junto a interface GUI. Porém foi colocado um teste para demonstração das funções de venda, evidenciando o funcionamento parcial da solução.
 
