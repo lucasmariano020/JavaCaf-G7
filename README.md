@@ -65,11 +65,8 @@ Desenvolver uma aplicação Java amigável para gerenciar as transações de ven
 - Destacar as principais funcionalidades e discutir os desafios enfrentados durante o desenvolvimento.
 
 ### Resultados dos Testes
-- Movimento dos produtos funcionando corretamente.
-- Disparo de vendas funcionando conforme esperado.
-- Colisões entre itens vendidos e estoque detectadas corretamente.
-- Jogo reinicia corretamente após o game over.
-- A dificuldade aumenta corretamente conforme o nível vai aumentando.
+- Não foi possível fazer completamente as funcionalidades propostas para o sistema
+- Incluiu-se um teste por padrão para verificação de algumas funções implementadas
 
 ### Como Rodar
 1. **Abra o site replit.com**
